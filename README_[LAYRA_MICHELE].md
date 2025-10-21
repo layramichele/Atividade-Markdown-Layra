@@ -38,27 +38,20 @@ Com interface intuitiva e funcionalidades automatizadas, o sistema proporciona *
 
 ## 🚀 Como Usar
 
-1. **Clone** este repositório:
-   
-   git clone https://github.com/seu-usuario/sistema-biblioteca.git
+1. **Clone** este repositório;
 
-2. **Acesse** a pasta do projeto:
+2. **Acesse** a pasta do projeto;
 
-cd sistema-biblioteca
+3. **Instale** as dependências;
 
-3. **Instale** as dependências:
+4. **Configure** o banco de dados (arquivo .env);
 
-pip install -r requirements.txt
+5. **Execute** o servidor;
 
-4. **Configure** o banco de dados (arquivo .env)
+6. **Acesse** o sistema no navegador.
 
-5. **Execute** o servidor:
-
-python app.py
-
-6. **Acesse** o sistema no navegador:
-
-http://localhost:5000
+**📌Logo**
+https://cdn-icons-png.flaticon.com/512/201/201571.png
 
 ### 💡Exemplo: Registro de um novo livro
 novo_livro = Livro(titulo="Dom Casmurro", autor="Machado de Assis", isbn="123456789", categoria="Romance")
