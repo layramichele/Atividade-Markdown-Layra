@@ -4,13 +4,13 @@ Um **sistema completo** para o gerenciamento de uma biblioteca escolar, permitin
 Seu objetivo é **automatizar** e **otimizar** o controle de acervo e circulação de exemplares, facilitando o trabalho de bibliotecários e professores.
 
 ## 🧭 Índice
-- 📘 Visão Geral (##-visão-geral)
-- ⚙️ Funcionalidades (##️-funcionalidades)
-- 💻 Tecnologias (##-tecnologias)
-- 🚀 Como Usar (##-como-usar)
-- 🧩 Próximas Atualizações (##-próximas-atualizações)
-- 👥 Contribuidores (##-contribuidores)
-- 📞 Contato (##-contato)
+- [📘 Visão Geral](##-visão-geral)
+- [⚙️ Funcionalidades](##️-funcionalidades)
+- [💻 Tecnologias](##-tecnologias)
+- [🚀 Como Usar](##-como-usar)
+- [🧩 Próximas Atualizações](##-próximas-atualizações)
+- [👥 Contribuidores](##-contribuidores)
+- [📞 Contato](##-contato)
 
 ## 📘 Visão Geral
 
@@ -83,7 +83,7 @@ O sistema busca unir tecnologia e educação de forma acessível e sustentável.
 - 🟥Relatórios em PDF
 
 ### 🔗Repositórios Relacionados
-https://github.com/devchallenge-io/biblioteca-backend.git
+https://github.com/devchallenge-io/biblioteca-backend.git || 
 https://github.com/paulojp-dev/projeto-biblioteca-java.git
 
 ## 👥 Contribuidores
